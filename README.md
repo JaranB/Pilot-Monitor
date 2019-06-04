@@ -15,7 +15,7 @@ Realtime graph:
 ![alt text](https://github.com/JaranB/Pilot-Monitor/blob/master/bilder/chart%20(1).png?raw=true)
 
 Database structure:
-!(https://github.com/JaranB/Pilot-Monitor/blob/master/bilder/dbark.png?raw=true)
+![alt text](https://github.com/JaranB/Pilot-Monitor/blob/master/bilder/dbark.png?raw=true)
 
 Wiring diagram:
 ![alt text](https://github.com/JaranB/Pilot-Monitor/blob/master/bilder/Koblingskjema_bb.png?raw=true)
