@@ -18,7 +18,7 @@ Database structure:
 ![alt text](https://github.com/JaranB/Pilot-Monitor/blob/master/bilder/dbark.png?raw=true)
 
 Wiring diagram:
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
+![alt text](https://github.com/JaranB/Pilot-Monitor/blob/master/bilder/Koblingskjema_bb.png?raw=true)
 
 ## Components
 
